@@ -1,3 +1,3 @@
 #! /bin/bash
 
-ln -s ~/.tmux_runtime/.tmux.conf ~/.tmux.conf
+ln -s ~/.my_tmux/.tmux.conf ~/.tmux.conf
